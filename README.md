@@ -3,7 +3,6 @@
 In this project, a prediction was made on the closing price of Apple stock by considering the purchase of shares. The prediction was attempted using LSTM, GRU, and LSTM&amp;GRU models, based on a 7-year data analysis, to determine the closing price for the next 30 days.
 
 
-![download](https://github.com/ahmetdzdrr/StockPriceForecasting/assets/117534684/5792a193-4553-4b51-8159-5cbd0839c148)
 ![Investing-How-To-Buy-Apple-Stock](https://github.com/ahmetdzdrr/StockPriceForecasting/assets/117534684/e54a9b01-df55-4e44-8f65-2b5628906e7b)
 
 DATA RETRIEVAL
@@ -43,6 +42,7 @@ GRU MODEL FORECASTING (NEXT 30 DAYS WTIH 180 DAYS BACKTEST)
 ![Ekran görüntüsü 2023-07-02 221704](https://github.com/ahmetdzdrr/StockPriceForecasting/assets/117534684/9586df1c-d45d-4af2-8137-7268960d3f0e)
 
 LSTM & GRU MODEL BUILDING
+
 In addition to the LSTM and GRU models, a combined model incorporating both LSTM and GRU was constructed, and training and testing were performed.
 
 ![download](https://github.com/ahmetdzdrr/StockPriceForecasting/assets/117534684/e0677e85-d881-4636-ba98-f8edc1eecad0)
